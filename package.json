@@ -1,0 +1,25 @@
+{
+  "name": "saim-js-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapoc/saim-js-sdk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapoc/saim-js-sdk/issues"
+  },
+  "homepage": "https://github.com/mapoc/saim-js-sdk#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3",
+    "request": "^2.81.0"
+  }
+}
